@@ -1,8 +1,3 @@
-Here is the **MOST COMPLETE + CLEAN + EASY** explanation of **Collections in Java**, covering **every subset**, **their key features**, and **one example for each**.
-Perfect for **viva, exam, interview**. ✔️🔥
-
----
-
 # 🌟 **WHAT IS COLLECTION IN JAVA?**
 
 The **Java Collection Framework (JCF)** is a set of **classes & interfaces** used to store and manipulate groups of objects.

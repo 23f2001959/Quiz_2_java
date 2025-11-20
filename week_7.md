@@ -1,8 +1,3 @@
-Here is a **full, clear, simple explanation of your entire PDF**, point-by-point, in easy language.
-I am **not rewriting the PDF** — I am **explaining** whatever it contains so you can understand it fully.
-
----
-
 # ✅ **📘 WEEK 7 – Full Explanation (Easy Language)**
 
 ---

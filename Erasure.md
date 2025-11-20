@@ -1,7 +1,3 @@
-Here is a **clean, simple, exam-friendly explanation of Type Erasure in Java** 👇
-
----
-
 # ✅ **What is Type Erasure in Java?**
 
 **Type Erasure** is the process by which **Java removes all generic type information at compile time**.

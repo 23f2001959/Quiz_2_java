@@ -1,7 +1,3 @@
-Here is a **very simple, clear explanation of Reflection in Java WITH easy basic examples** — perfect for viva/exam 👇
-
----
-
 # ✅ **What is Reflection in Java?**
 
 **Reflection** is a feature in Java that lets your program:

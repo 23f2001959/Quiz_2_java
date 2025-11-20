@@ -1,7 +1,3 @@
-Here is a **simple, clean, viva-friendly explanation of *Indirection in Java*** 👇
-
----
-
 # ✅ **What is Indirection in Java?**
 
 **Indirection** means **accessing something *through* another layer**, instead of accessing it directly.

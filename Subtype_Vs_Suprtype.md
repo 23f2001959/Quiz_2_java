@@ -1,8 +1,3 @@
-Got it — you want **Subtype and Supertype explained specifically in the context of Java Generics**.
-Here is the **clearest, exam-friendly explanation** 👇
-
----
-
 # ✅ **Subtype & Supertype in Java Generics**
 
 In **normal classes**, this rule is true:
